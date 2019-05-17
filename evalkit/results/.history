@@ -1,0 +1,45 @@
+2018-12-28.15-04-45 vim eval.overlap-0.1.log 
+2018-12-28.15-04-47 rm *
+2018-12-28.15-14-40 vim detections.txt 
+2018-12-28.15-14-42 rm detections.txt 
+2018-12-28.15-47-22 vim eval.overlap-0.1.log 
+2018-12-28.15-47-59 vim eval.overlap-0.1.log 
+2018-12-28.15-48-06 htop
+2018-12-28.15-48-08 htop
+2018-12-28.15-48-16 vim eval.overlap-0.1.log 
+2018-12-28.15-49-05 vim eval.overlap-0.1.log 
+2018-12-28.15-49-12 vim eval.overlap-0.2.log 
+2018-12-28.15-49-16 vim eval.overlap-0.3.log 
+2018-12-28.15-49-19 vim eval.overlap-0.3.log 
+2018-12-28.15-49-37 vim eval.overlap-0.4.log 
+2018-12-28.16-01-00 vim eval.overlap-0.1.log 
+2018-12-28.16-01-08 vim eval.overlap-0.1.log 
+2018-12-28.16-01-17 vim eval.overlap-0.1.log 
+2018-12-28.16-01-20 vim eval.overlap-0.1.log 
+2018-12-28.16-01-25 vim eval.overlap-0.2.log 
+2018-12-28.16-01-35 vim eval.overlap-0.2.log 
+2018-12-28.16-01-39 vim eval.overlap-0.3.log 
+2018-12-28.16-05-39 vim eval.overlap-0.3.log 
+2018-12-28.16-05-43 vim eval.overlap-0.4.log 
+2018-12-28.16-06-25 vim eval.overlap-0.5.log 
+2018-12-28.16-06-31 vim eval.overlap-0.3.log 
+2018-12-28.16-07-35 vim eval.overlap-0.1.log 
+2018-12-28.16-07-50 vim eval.overlap-0.1.log 
+2018-12-28.16-08-24 vim eval.overlap-0.1.log 
+2018-12-28.16-08-30 vim eval.overlap-0.1.log 
+2018-12-28.16-08-45 vim eval.overlap-0.1.log 
+2018-12-28.16-08-49 vim eval.overlap-0.2.log 
+2018-12-28.16-08-50 qstat
+2018-12-28.16-08-54 vim eval.overlap-0.2.log 
+2018-12-28.16-09-05 vim eval.overlap-0.3.log 
+2018-12-28.16-09-10 vim eval.overlap-0.3.log 
+2018-12-28.16-09-15 vim eval.overlap-0.3.log 
+2018-12-28.16-10-12 vim eval.overlap-0.4.log 
+2018-12-28.16-10-20 vim eval.overlap-0.5.log 
+2019-01-02.12-23-55 vim eval.overlap-0.1.log 
+2019-01-02.12-23-58 vim eval.overlap-0.2.log 
+2019-01-02.12-24-01 vim eval.overlap-0.3.log 
+2019-01-02.12-24-07 vim eval.overlap-0.4.log 
+2019-01-02.12-24-11 vim eval.overlap-0.5.log 
+2019-01-20.14-26-46 tail -n3 eval.overlap-0.*
+2019-03-07.15-02-09 tail -n3 eval.overlap-0.*

@@ -1,0 +1,396 @@
+2015-05-28.15-16-30 unzip THUMOS14_evalkit_20141008.zip 
+2015-05-28.15-16-56 vim readme.txt 
+2015-05-28.15-17-07 vim intervaloverlapvalseconds.m 
+2015-05-28.15-17-40 vim TH14evalDet.m 
+2015-05-28.15-17-49 vim TH14evalRecog.m 
+2015-05-28.15-18-04 vim intervaloverlapvalseconds.m 
+2015-05-28.15-18-08 grep -r intervalover .
+2015-05-28.15-19-02 rm -rf __MACOSX/
+2015-06-01.14-36-02 vim TH14evalDet.m 
+2015-06-01.14-36-11 vim intervaloverlapvalseconds.m 
+2015-06-01.14-36-34 vim readme.txt 
+2015-09-15.15-48-53 vim TH14evalDet.m 
+2015-09-15.16-31-13 vim readme.txt 
+2015-09-17.11-33-25 vim readme.txt 
+2015-09-17.11-35-49 vim TH14evalDet.m 
+2015-09-17.11-35-53 vim TH14evalDet.m 
+2015-09-17.11-52-20 vim fps.txt 
+2015-09-17.11-52-27 matlab
+2015-09-17.11-52-31 vim fps.txt 
+2015-09-17.11-53-08 vim fps.txt 
+2015-09-17.11-53-18 realname .
+2015-09-17.11-53-49 eval.sh
+2015-09-17.11-53-55 vim eval.sh
+2015-09-17.11-53-58 chmod +x eval.sh 
+2015-09-17.11-54-11 chmod -x fps.txt intervaloverlapvalseconds.m readme.txt test_set_final.mat TH14evalDet.m TH14evalRecog.m 
+2015-09-17.11-54-47 vim eval.sh 
+2015-09-17.11-54-49 ./eval.sh 
+2015-09-17.11-54-56 ./eval.sh | wc -l
+2015-09-17.11-55-11 vim eval.sh 
+2015-09-17.11-56-13 vim eval.sh 
+2015-09-17.11-56-16 ./eval.sh 
+2015-09-17.11-57-40 vim eval.sh 
+2015-09-17.11-57-41 ./eval.sh 
+2015-09-17.12-09-37 vim eval.sh 
+2015-09-17.12-09-39 ./eval.sh 
+2015-09-17.12-10-01 vim eval.sh 
+2015-09-17.12-10-02 ./eval.sh 
+2015-09-17.12-10-08 cat detections.txt 
+2015-09-17.12-10-42 vim detections.txt 
+2015-09-17.12-18-19 vim eval.sh 
+2015-09-17.12-18-21 ./eval.sh 
+2015-09-17.12-18-52 vim eval.sh 
+2015-09-17.12-18-54 ./eval.sh 
+2015-09-17.12-19-07 vim detections.txt 
+2015-09-17.12-19-17 vim eval.sh 
+2015-09-17.12-19-19 ./eval.sh 
+2015-09-17.12-19-40 vim eval.sh 
+2015-09-17.12-19-42 ./eval.sh 
+2015-09-17.12-19-53 vim detections.txt 
+2015-09-17.12-20-12 vim eval.sh 
+2015-09-17.12-20-16 vim detections.txt 
+2015-09-17.12-20-20 vim detections.txt 
+2015-09-17.12-20-25 vim eval.sh 
+2015-09-17.12-26-05 ./eval.sh 
+2015-09-17.12-27-31 vim detections.txt 
+2015-09-17.12-30-16 vim detections.txt 
+2015-09-17.12-30-49 vim TH14evalDet.m 
+2015-09-17.12-32-48 vim eval.sh 
+2015-09-17.12-32-56 ./eval.sh 
+2015-09-17.12-37-21 vim eval.sh 
+2015-09-17.12-37-27 ./eval.sh 
+2015-09-17.12-37-36 vim eval.sh 
+2015-09-17.12-37-45 ./eval.sh 
+2015-09-17.12-38-00 vim eval.sh 
+2015-09-17.12-44-29 ./eval.sh 
+2015-09-17.12-44-45 vim eval.sh 
+2015-09-17.12-45-01 vim detections.txt 
+2015-09-17.12-49-36 vim mapping
+2015-09-17.12-50-29 vim eval.sh 
+2015-09-17.12-56-55 ./eval.sh 
+2015-09-17.12-57-14 vim detections.txt 
+2015-09-17.12-58-02 vim eval.sh 
+2015-09-17.12-58-04 ./eval.sh 
+2015-09-17.12-58-12 vim eval.sh 
+2015-09-17.12-58-27 vim mapping 
+2015-09-17.12-58-32 vim mapping 
+2015-09-17.12-58-42 vim eval.sh 
+2015-09-17.12-58-45 ./eval.sh 
+2015-09-17.12-58-54 vim eval.sh 
+2015-09-17.12-58-56 ./eval.sh 
+2015-09-17.12-59-02 vim detections.txt 
+2015-09-17.12-59-07 vim eval.sh 
+2015-09-17.12-59-32 vim /work/UCF_bodymotion/improvedTrajectories/fisher-vector/baseline/split1/SVM/SVM.sh 
+2015-09-17.12-59-46 vim eval.sh 
+2015-09-17.12-59-50 vim detections.txt 
+2015-09-17.12-59-55 vim eval.sh 
+2015-09-17.13-06-08 ./eval.sh 
+2015-09-17.14-16-57 vim eval.sh 
+2015-09-17.14-17-07 vim ../../test-lm10-len1/evalkit/eval.sh 
+2015-09-17.14-17-10 vim eval.sh 
+2015-09-17.14-24-03 ./eval.sh 
+2015-09-17.15-19-58 ./eval.sh 
+2015-09-17.15-21-06 vim detections.txt 
+2015-09-17.15-21-10 vim detections.txt 
+2015-09-17.15-21-46 vim eval.sh 
+2015-09-17.15-23-59 ./eval.sh 
+2015-09-17.16-31-58 vim eval.sh 
+2015-09-17.16-33-03 vim eval.sh 
+2015-09-17.16-33-07 vim eval.sh 
+2015-09-17.16-33-09 mkdir results
+2015-09-17.16-33-11 mv detections.txt results/
+2015-09-17.16-33-27 ./eval.sh 
+2015-09-17.16-33-37 vim eval.sh 
+2015-09-17.16-36-08 ./eval.sh 
+2015-09-17.16-43-31 vim eval.sh 
+2015-09-17.16-43-35 rm -rf results/
+2015-09-17.16-43-36 qstat
+2015-09-17.16-43-38 qsub eval.sh 
+2015-09-17.16-43-39 qstat
+2015-09-17.16-43-40 qstat
+2015-09-17.16-44-01 qsub eval.sh 
+2015-09-18.11-37-20 vim eval.sh 
+2015-09-18.11-45-35 vim ../log/video_test_0000004.log 
+2015-09-18.11-57-37 vim smooth.sh
+2015-09-18.11-57-39 chmod +x smooth.sh 
+2015-09-18.11-57-41 ./smooth.sh 
+2015-09-18.11-58-00 vim smooth.sh 
+2015-09-18.11-58-01 ./smooth.sh 
+2015-09-18.11-58-15 vim smooth.sh 
+2015-09-18.11-58-16 ./smooth.sh 
+2015-09-18.11-58-24 vim smooth.sh 
+2015-09-18.11-58-25 ./smooth.sh 
+2015-09-18.12-04-13 vim smooth.sh 
+2015-09-18.12-04-15 ./smooth.sh 
+2015-09-18.12-04-22 vim smooth.sh 
+2015-09-18.12-04-23 ./smooth.sh 
+2015-09-18.12-04-45 vim smooth.sh 
+2015-09-18.12-04-46 ./smooth.sh 
+2015-09-18.13-00-34 vim smooth.sh 
+2015-09-18.13-00-36 ./smooth.sh 
+2015-09-18.13-00-54 vim smooth.sh 
+2015-09-18.13-00-55 ./smooth.sh 
+2015-09-18.13-01-07 vim smooth.sh 
+2015-09-18.13-03-39 vim smooth.sh 
+2015-09-18.13-03-40 ./smooth.sh 
+2015-09-18.13-04-40 vim smooth.sh 
+2015-09-18.13-04-40 ./smooth.sh 
+2015-09-18.13-05-01 vim smooth.sh 
+2015-09-18.13-05-01 ./smooth.sh 
+2015-09-18.13-07-00 vim smooth.sh 
+2015-09-18.13-07-01 ./smooth.sh 
+2015-09-18.13-07-56 vim smooth.sh 
+2015-09-18.13-08-21 vim smooth.sh 
+2015-09-18.13-09-37 vim smooth.sh 
+2015-09-18.13-09-38 ./smooth.sh 
+2015-09-18.13-10-16 vim smooth.sh 
+2015-09-18.13-10-25 vim smooth.sh 
+2015-09-18.13-10-26 ./smooth.sh 
+2015-09-18.13-13-10 vim smooth.sh 
+2015-09-18.13-13-12 ./smooth.sh 
+2015-09-18.13-13-23 vim smooth.sh 
+2015-09-18.13-14-38 vim eval.sh 
+2015-09-18.13-18-42 ./eval.sh 
+2015-09-18.13-22-39 vim results/eval.overlap-0.5.log 
+2015-09-18.13-23-11 vim eval.sh 
+2015-09-18.13-23-18 vim results/eval.overlap-0.5.log 
+2015-09-18.13-23-24 tail -n2 results/eval.overlap-0.5.log 
+2015-09-18.13-23-27 tail -n3 results/eval.overlap-0.5.log 
+2015-09-18.13-23-44 for X in 0.1 0.2 0.3 0.4 0.5; do tail -n3 results/eval.overlap-$X.log ; done
+2015-09-18.13-23-52 vim smooth.sh 
+2015-09-18.13-24-08 vim eval.sh 
+2015-09-18.13-28-02 ./eval.sh 
+2015-09-18.13-30-25 for X in 0.1 0.2 0.3 0.4 0.5; do tail -n3 results/eval.overlap-$X.log ; done
+2015-09-18.13-30-53 vim results/detections.txt 
+2015-09-18.13-31-04 vim eval.sh 
+2015-09-18.13-34-55 ./eval.sh 
+2015-09-18.13-34-57 for X in 0.1 0.2 0.3 0.4 0.5; do tail -n3 results/eval.overlap-$X.log ; done
+2015-09-18.13-35-24 vim eval.sh 
+2015-09-18.13-36-35 ./eval.sh 
+2015-09-18.13-36-36 ./eval.sh 
+2015-09-18.13-36-47 vim eval.sh 
+2015-09-18.13-36-48 ./eval.sh 
+2015-09-18.13-36-58 vim eval.sh 
+2015-09-18.13-36-59 ./eval.sh 
+2015-09-18.13-37-13 vim eval.sh 
+2015-09-18.13-37-20 vim eval.sh 
+2015-09-18.13-40-47 ./eval.sh 
+2015-09-18.13-40-56 for X in 0.1 0.2 0.3 0.4 0.5; do tail -n3 results/eval.overlap-$X.log ; done
+2015-09-18.13-42-37 vim TH14evalDet.m 
+2015-09-18.18-11-31 rm -rf results/ q.log/
+2015-09-18.18-11-45 vim eval.sh 
+2015-09-21.10-21-15 vim eval.sh 
+2015-09-21.10-28-15 ./eval.sh 
+2015-09-21.10-43-14 for X in 0.1 0.2 0.3 0.4 0.5; do tail -n3 results/eval.overlap-$X.log; done
+2015-09-21.10-43-46 vim results/detections.txt 
+2015-09-21.10-43-50 vim eval.sh 
+2015-09-21.10-43-53 cp eval.sh bla.sh
+2015-09-21.10-44-08 vim bla.sh 
+2015-09-21.10-44-35 vim results/detections.txt 
+2015-09-21.10-46-39 ./bla.sh 
+2015-09-21.10-46-47 for X in 0.1 0.2 0.3 0.4 0.5; do tail -n3 results/eval.overlap-$X.log; done
+2015-09-21.10-46-53 rm bla.sh 
+2015-09-21.15-25-33 vim results/eval.overlap-0.5.log 
+2015-09-21.15-26-43 tail -n3 results/eval.overlap-0.*.log
+2015-09-29.16-18-39 vim eval.sh 
+2015-09-29.16-19-31 vim smooth.sh 
+2015-09-29.16-31-19 vim smooth.sh 
+2015-09-29.16-31-21 realname smooth.sh 
+2015-09-29.16-35-27 vim eval.sh 
+2015-10-05.19-33-55 vim results/eval.overlap-0.5.log 
+2015-10-05.19-34-01 vim results/eval.overlap-0.1.log 
+2015-10-05.19-34-38 vim eval.sh 
+2015-10-05.19-34-50 du -sch annotation/
+2015-10-05.19-35-05 rm -rf annotation/
+2015-10-05.19-35-08 cp -rf /home/richard/Downloads/THUMOS14_evalkit_20150930/annotation .
+2015-10-05.19-35-25 cp /home/richard/Downloads/THUMOS14_evalkit_20150930/test_set_final.mat .
+2015-10-05.19-35-35 cp /home/richard/Downloads/THUMOS14_evalkit_20150930/readme.txt .
+2015-10-05.19-35-40 cp /home/richard/Downloads/THUMOS14_evalkit_20150930/TH14eval* .
+2015-10-05.19-35-45 cp /home/richard/Downloads/THUMOS14_evalkit_20150930/intervaloverlapvalseconds.m .
+2015-10-05.19-37-43 ./eval.sh 
+2015-10-05.19-37-55 for X in $(seq 1 5); do tail -n3 results/eval.overlap-0.$X.log; done
+2015-10-05.19-38-06 vim results/detections.txt 
+2015-10-05.19-39-36 vim eval.sh 
+2015-10-05.19-40-11 rm -rf results/*
+2015-10-05.19-40-16 cp ../evalkit/results/detections.txt .
+2015-10-05.19-40-28 vim eval.sh 
+2015-10-05.19-40-49 vim eval.sh 
+2015-10-05.19-41-01 cp ../evalkit/results/detections.txt results/
+2015-10-05.19-41-04 vim results/detections.txt 
+2015-10-05.19-41-27 ./eval.sh 
+2015-10-05.19-41-52 vim results/eval.overlap-0.1.log 
+2015-10-05.19-42-06 vim ../../../slidingWindow/test/evalkit2/results/eval.overlap-0.1.log 
+2015-10-05.19-42-13 vim eval.sh 
+2015-10-05.19-42-34 ./eval.sh 
+2015-10-05.19-42-41 vim results/eval.overlap-0.5.log 
+2015-10-05.19-42-49 vim detections.txt 
+2015-10-05.19-43-11 vim ../log/video_test_0000004.log 
+2015-10-05.19-43-49 rm -rf results/*
+2015-10-05.19-43-52 rm detections.txt 
+2015-10-05.19-43-57 cp ../evalkit/results/detections.txt results/
+2015-10-05.19-44-01 vim results/detections.txt 
+2015-10-05.19-44-04 rm results/detections.txt 
+2015-10-05.19-44-23 vim ../log/video_test_0000004.log 
+2015-10-05.19-46-12 vim eval.sh 
+2015-10-05.19-50-54 ./eval.sh 
+2015-10-05.19-51-11 vim eval.sh 
+2015-10-05.19-51-20 vim results/eval.overlap-0.5.log 
+2015-10-05.19-53-08 vim eval.sh 
+2015-10-05.19-53-10 ./eval.sh 
+2015-10-05.19-53-27 vim eval.sh 
+2015-10-05.19-53-30 ./eval.sh 
+2015-10-05.19-53-51 vim eval.sh 
+2015-10-05.20-01-15 ./eval.sh 
+2015-10-05.20-05-52 vim results/eval.overlap-0.5.log 
+2015-10-05.20-16-53 vim results/detections.txt 
+2015-10-05.20-17-03 vim ../log/video_test_0000004.log 
+2015-10-05.20-20-38 vim eval.sh 
+2015-10-05.20-20-40 qsub eval.sh 
+2015-10-05.20-20-41 qstat
+2015-10-05.20-20-51 vim results/detections.txt 
+2015-10-05.20-21-08 vim ../log/video_test_0000004.log 
+2015-10-05.20-21-11 qstat
+2015-10-05.20-22-31 qstat
+2015-10-05.20-22-33 qdel 91
+2015-10-05.20-22-33 qstat
+2015-10-05.20-22-52 vim eval.sh 
+2015-10-05.20-23-23 vim eval.sh 
+2015-10-05.20-23-30 qsub eval.sh 
+2015-10-05.20-23-30 qstat
+2015-10-05.20-23-57 qstat
+2015-10-05.20-26-17 vim eval.sh 
+2015-10-05.20-26-18 qstat
+2015-10-05.20-26-25 vim q.log/eval-thumos14.0000000092 
+2015-10-05.20-26-26 qstat
+2015-10-05.20-26-51 qstat
+2015-10-05.20-29-12 qstat
+2015-10-05.20-29-53 qstat
+2015-10-05.20-30-37 qstat
+2015-10-06.07-50-42 qstat
+2015-10-06.07-50-54 vim results/eval.overlap-0.5.log 
+2015-10-06.07-51-05 vim eval.sh 
+2015-10-06.07-51-21 for X in 1 2 3 4 5; do tail -n3 results/eval.overlap-0.$X.log; done
+2015-10-06.07-51-40 vim eval.sh 
+2015-10-06.07-52-47 rm -rf results/
+2015-10-06.07-52-51 mkdir results
+2015-10-06.07-52-52 rm -rf q.log/
+2015-10-06.07-56-07 diff -r . ../evalkit/
+2015-10-06.07-56-35 diff -r . ../evalkit/ | less
+2015-10-06.07-56-50 vim eval.sh 
+2015-10-06.07-57-00 diff -r . ../evalkit/ | less
+2015-10-06.07-57-06 vim ../evalkit/eval.sh 
+2015-10-06.07-57-17 vim eval.sh 
+2015-10-06.07-57-19 qsub eval.sh 
+2015-10-06.07-57-19 qstat
+2015-10-06.08-00-46 qstat
+2015-10-06.08-03-33 qstat
+2015-10-06.09-47-57 qstat
+2015-10-06.09-48-12 for X in 1 2 3 4 5; do tail -n3 results/eval.overlap-0.$X.log; done
+2015-10-06.11-01-09 for X in $(seq 1 5); do tail -n3 results/eval.overlap-0.$X.log; done
+2015-10-06.11-01-36 vim intervaloverlapvalseconds.m 
+2015-10-06.11-02-05 md5sum TH14evalDet.m 
+2015-10-06.11-02-17 md5sum TH14evalDet.m 
+2015-10-06.11-02-25 md5sum intervaloverlapvalseconds.m 
+2015-10-06.13-49-34 vim results/detections.txt 
+2015-10-07.12-03-40 for X in 1 2 3 4 5; do tail -n3 results/eval.overlap-0.$X.log; done
+2015-10-27.16-37-28 rm -rf results/* q.log/
+2015-10-27.16-38-08 vim eval.sh 
+2015-10-28.13-24-33 for X in 1 2 3 4 5; do tail -n3 results/eval.overlap-0.$X.log; done
+2015-11-02.11-44-29 rm -rf results/*
+2018-12-28.10-25-04 vim eval.sh 
+2018-12-28.10-25-38 vim results/detections.txt 
+2018-12-28.11-59-44 vim eval.sh 
+2018-12-28.11-59-50 vim fps.txt 
+2018-12-28.11-59-57 vim readme.txt 
+2018-12-28.12-00-01 du -sch .
+2018-12-28.12-00-13 vim smooth.sh 
+2018-12-28.12-04-01 vim eval.sh 
+2018-12-28.12-04-08 vim eval.sh 
+2018-12-28.12-04-28 vim eval.sh 
+2018-12-28.12-39-44 vim eval.sh 
+2018-12-28.12-39-50 vim mapping 
+2018-12-28.12-39-54 vim mapping 
+2018-12-28.12-40-13 vim mapping 
+2018-12-28.15-04-35 vim eval.sh 
+2018-12-28.15-05-12 vim eval.sh 
+2018-12-28.15-05-32 ./eval.sh 
+2018-12-28.15-05-32 ./eval.sh 
+2018-12-28.15-05-33 ./eval.sh 
+2018-12-28.15-05-47 vim eval.sh 
+2018-12-28.15-06-54 vim eval.sh 
+2018-12-28.15-06-56 ./eval.sh 
+2018-12-28.15-07-48 vim eval.sh 
+2018-12-28.15-07-50 ./eval.sh 
+2018-12-28.15-08-22 vim eval.sh 
+2018-12-28.15-08-23 ./eval.sh 
+2018-12-28.15-09-10 vim eval.sh 
+2018-12-28.15-09-12 ./eval.sh 
+2018-12-28.15-09-28 vim fps.txt 
+2018-12-28.15-09-53 vim eval.sh 
+2018-12-28.15-09-56 ./eval.sh 
+2018-12-28.15-10-07 ./eval.sh 
+2018-12-28.15-10-38 vim eval.sh 
+2018-12-28.15-10-40 ./eval.sh 
+2018-12-28.15-11-05 vim eval.sh 
+2018-12-28.15-11-18 vim eval.sh 
+2018-12-28.15-11-20 ./eval.sh 
+2018-12-28.15-11-35 vim eval.sh 
+2018-12-28.15-21-58 vim eval.sh 
+2018-12-28.15-24-30 chmod +x eval.py 
+2018-12-28.15-24-36 vim smooth.sh 
+2018-12-28.15-24-38 rm smooth.sh 
+2018-12-28.15-24-46 python eval.py 
+2018-12-28.15-25-02 python eval.py 
+2018-12-28.15-26-42 python eval.py 
+2018-12-28.15-26-52 vim fps.txt 
+2018-12-28.15-28-15 python eval.py 
+2018-12-28.15-28-23 python eval.py 
+2018-12-28.15-29-34 python eval.py 
+2018-12-28.15-29-37 vim mapping 
+2018-12-28.15-37-25 python eval.py 
+2018-12-28.15-37-40 python eval.py 
+2018-12-28.15-37-53 python eval.py 
+2018-12-28.15-38-19 python eval.py 
+2018-12-28.15-38-30 python eval.py 
+2018-12-28.15-38-40 python eval.py 
+2018-12-28.15-38-45 python eval.py 
+2018-12-28.15-39-20 python eval.py 
+2018-12-28.15-39-31 python eval.py 
+2018-12-28.15-39-57 vim ../results/video_test_0000007.mp4 
+2018-12-28.15-40-35 vim ../results/video_test_0000238.mp4 
+2018-12-28.15-40-55 python eval.py 
+2018-12-28.15-41-02 python eval.py 
+2018-12-28.15-41-02 python eval.py 
+2018-12-28.15-41-04 python eval.py 
+2018-12-28.15-41-10 python eval.py 
+2018-12-28.15-42-10 python eval.py 
+2018-12-28.15-42-13 python eval.py 
+2018-12-28.15-43-04 python eval.py 
+2018-12-28.15-43-14 python eval.py 
+2018-12-28.15-43-19 vim results/detections.txt 
+2018-12-28.15-43-27 python eval.py 
+2018-12-28.15-43-38 vim results/detections.txt 
+2018-12-28.15-47-17 vim eval.sh 
+2018-12-28.15-50-06 python eval.py 
+2018-12-28.15-50-20 vim eval.sh 
+2018-12-28.15-53-18 python eval.py 
+2018-12-28.15-59-27 python eval.py 
+2018-12-28.16-00-19 python eval.py 
+2018-12-28.16-00-35 vim results/detections.txt 
+2018-12-28.16-00-41 rm eval.sh 
+2018-12-28.16-00-43 rm eval.sh 
+2018-12-28.16-00-49 vim eval.py 
+2018-12-28.16-02-22 python eval.py 
+2018-12-28.16-07-26 vim eval.py 
+2018-12-28.16-07-47 python eval.py 
+2018-12-28.16-07-47 python eval.py 
+2018-12-28.16-08-13 vim eval.py 
+2018-12-28.16-09-56 python eval.py 
+2019-01-04.15-48-55 vim results/eval.overlap-0.1.log 
+2019-01-04.18-31-46 rm -rf results/*
+2019-01-10.17-01-24 vim TH14evalDet.m 
+2019-01-10.17-01-44 vim intervaloverlapvalseconds.m 
+2019-01-10.17-01-50 vim test_set_final.mat 
+2019-01-10.17-22-37 vim TH14evalDet.m 
+2019-01-10.17-22-54 vim TH14evalDet.m 
+2019-01-18.11-45-12 tail -n3 results/eval.overlap-0.*
