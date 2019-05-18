@@ -1,9 +1,0 @@
-SIL
-take_knife
-take_topping
-take_knife
-take_plate
-cut_bun
-smear_butter
-put_toppingOnTop
-SIL

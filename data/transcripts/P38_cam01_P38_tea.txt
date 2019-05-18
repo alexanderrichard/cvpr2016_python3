@@ -1,4 +1,0 @@
-SIL
-add_teabag
-pour_water
-SIL

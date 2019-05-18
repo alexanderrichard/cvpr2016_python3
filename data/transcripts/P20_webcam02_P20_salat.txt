@@ -1,5 +1,0 @@
-SIL
-cut_fruit
-take_bowl
-put_fruit2bowl
-SIL

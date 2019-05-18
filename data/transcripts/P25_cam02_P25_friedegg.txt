@@ -1,8 +1,0 @@
-SIL
-pour_oil
-take_eggs
-crack_egg
-add_saltnpepper
-fry_egg
-put_egg2plate
-SIL

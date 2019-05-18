@@ -1,7 +1,0 @@
-SIL
-take_cup
-pour_coffee
-pour_milk
-spoon_sugar
-stir_coffee
-SIL

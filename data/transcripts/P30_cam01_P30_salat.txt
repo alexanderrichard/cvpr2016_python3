@@ -1,6 +1,0 @@
-SIL
-peel_fruit
-cut_fruit
-peel_fruit
-cut_fruit
-SIL

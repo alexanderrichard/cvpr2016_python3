@@ -1,4 +1,0 @@
-SIL
-take_plate
-cut_fruit
-SIL

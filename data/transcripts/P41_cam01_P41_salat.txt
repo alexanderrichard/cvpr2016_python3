@@ -1,9 +1,0 @@
-SIL
-take_plate
-peel_fruit
-cut_fruit
-put_fruit2bowl
-cut_fruit
-put_fruit2bowl
-stir_fruit
-SIL

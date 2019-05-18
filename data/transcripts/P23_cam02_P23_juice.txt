@@ -1,6 +1,0 @@
-SIL
-cut_orange
-squeeze_orange
-take_glass
-pour_juice
-SIL

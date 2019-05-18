@@ -1,7 +1,0 @@
-SIL
-pour_milk
-spoon_powder
-stir_milk
-pour_milk
-stir_milk
-SIL

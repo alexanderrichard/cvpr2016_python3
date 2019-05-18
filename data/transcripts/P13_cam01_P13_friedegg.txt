@@ -1,7 +1,0 @@
-SIL
-crack_egg
-pour_oil
-fry_egg
-take_plate
-put_egg2plate
-SIL
