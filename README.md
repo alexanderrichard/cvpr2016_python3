@@ -15,7 +15,7 @@ The data folder contains 3 folders and 3 files:
 - /groundTruth: contains a file for each video where each line present a label assigned to a video-frame respectively
 - /transcript: contains a file for each video, where an ordered sequence of classes that occurr in the video is given
 - mapping.txt: contains a list of number assigned to each  action-label 
-git - split1.test: list of videos used for training
+- split1.test: list of videos used for training
 - split1.train: list of videos used for testing
 ### Training:
 
