@@ -2,6 +2,8 @@
 
 import numpy as np
 import torch
+
+from sklearn.svm import SVC
 from torch.utils.data import DataLoader
 from utils.network import Net
 from utils.dataset import TranscriptDataset, SegmentDataset
@@ -31,9 +33,9 @@ with open('results/grammar.txt', 'w') as f:
     f.write('\n'.join(paths) + '\n')
 
 ### estimate segment prior #######################################################################
-# Since the outputs of the neural networ are posterior robabiliteis the authors follow the       #
+# Since the outputs of the neural networ are posterior probabiliteis the authors follow the       #
 # hybrid approach presented in [3]. During the training the author count the amount of frames    # 
-# that have been labeled witha a class c for all sequences that have been processed so far.      #
+# that have been labeled with a class c for all sequences that have been processed so far.      #
 # Normalizing these counts to sum up to one  finally results in our estimate of p(c). The priori #
 # is updated after every iteration, i.e. after every new sequence. if a sequence c1^N contains   #
 # a classs that has not been seen before ? is used.
@@ -121,10 +123,10 @@ print('Accuracy: %.4f' % (float(n_correct) / len(dataset)))
 
 
 
-'''
+
 ### read segmented training data ###############################################
-print('read data...')
-with open('data/trainset', 'r') as f:
+print('read data phase 2...')
+with open('data/split1.train', 'r') as f:
     video_list = f.read().split('\n')[0:-1]
 dataset = SegmentDataset('data', video_list, label2index, shuffle = True)
 print('done')
@@ -151,8 +153,8 @@ np.save('bias.npy', bias)
 net = Net(dataset.input_dimension, dataset.n_classes)
 weights = torch.Tensor(np.transpose(weights))
 bias = torch.Tensor(bias)
-net.fc.weight = weights
-net.fc.bias = bias
-torch.save(net.state_dict(), 'results/nn.net')
-'''
+net.fc.weight =  torch.nn.Parameter(weights)
+net.fc.bias = torch.nn.Parameter(bias)
+torch.save(net.state_dict(), 'results/nn-SVM.net')
+
 
